@@ -1,0 +1,46 @@
+h2.name {
+    text-shadow: 10px 10px 20px rgba(241, 114, 41, 0.829);
+}
+h1{
+    text-shadow: 10px 5px 5px rgb(44, 110, 196);
+}
+p.one{
+    word-spacing: 7px;
+}
+p.two{
+    color: blue;
+    font-size:18px;
+}
+
+/*
+body{
+    font-family: 'Courgette', cursive;
+}
+*/
+
+/* .cl th , .cl td {
+    padding: 50px;
+    /* border:0px solid rgb(99, 91, 91)  ; 
+    border-radius: 20px;
+} */
+body{
+    background-color: rgb(255, 255, 255);
+    background-image: url(https://www.hdwallpapers.in/thumbs/2021/white_paper_flowers_in_white_background_hd_white_background-t2.jpg);
+    background-size:cover;
+}
+
+/*
+div {
+    font-size: 15px;
+    width: 200px;
+    border: 15px solid rgba(27, 24, 212, 0.699);
+    padding: 50px;
+    margin: 20px;
+  } */
+h3 {
+    font-size: 25px;
+    font-size: bold;
+    padding: 30px;
+    justify-content: center;
+
+}
